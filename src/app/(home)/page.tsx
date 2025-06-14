@@ -23,7 +23,7 @@ export default function Home() {
         </div>
 
         <div>
-        <Textarea value={"I am text area"} /> 
+        <Textarea readOnly value={"I am text area"} /> 
         </div>
 
         <div>
